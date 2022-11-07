@@ -1,29 +1,12 @@
-👋 Hi, I’m Andrei!
+👋 Hi, I’m Andrei-Cristian Rad!
 
-I’m versatile machine learning software engineer and researcher, with 2+ years of experience working in international environments. 
+I’m a versatile machine learning engineer, researcher and consultant.
 
-My strengths are NLP, CV, and MLOps. I am interested in innovation and start-ups. Every once in a while, I contribute to open-source software.
+My expertise is mainly in NLP and MLOps. I am also comofrtable with graph NNs and computer vision. 
 
-I work with and can consult on the following technologies; 
-- Languages: Python, Kotlin, Java.
+I am interested in innovation and start-ups. Every once in a while, I contribute to open-source software.
 
-- 🔬 Prototyping: Jupyter, Bokeh.
-
-- 🖥️ Computation: PyTorch, NumPy, Pandas, SkLearn, Transformers.
-
-- 🏎️ API: FastAPI, Flask, gRPC.
-
-- 🛰️ Deployment: Docker, GitHub, CircleCI.
-
-- ⚙️ MLOps: ClearML, DVC, W&B, MLFlow. 
-
-- ☁️ Cloud: AWS (S3, EC2, SageMaker).
-
-- 🔧 Tools: NLP tools (SpaCy, ProdiGy), CV tools (PIL, OpenCV).
-
-- 💾 Storage/DB: SQL, Mongo, ElasticSearch.
-
-📫 For collaborations: radandreicristian@gmail.com
+📫 For collaborations and inquiries, you can reach out to me at rad@overhaul.ai.
 
 <!---
 radandreicristian/radandreicristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
