@@ -1,6 +1,6 @@
 👋 Hi, I’m Andrei-Cristian Rad!
 
-I’m a versatile machine learning engineer, researcher and consultant.
+I’m an ML engineer, researcher and consultant.
 
 My expertise is mainly in NLP and MLOps. I am also comofrtable with graph NNs and computer vision. 
 
